@@ -11,17 +11,14 @@ print((min))
 
 
 '''Sample Input 1:
-
 480
 Sample Output 1:
-
 8
 0
-Sample Input 2:
 
+Sample Input 2:
 512
 Sample Output 2:
-
 8
 32
 '''
