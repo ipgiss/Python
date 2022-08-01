@@ -28,27 +28,23 @@ else:
 
 '''
 Sample Input 1:
-
 6
 10
 8
 Sample Output 1:
-
 Это нормально
-Sample Input 2:
 
+Sample Input 2:
 7
 9
 10
 Sample Output 2:
-
 Пересып
-Sample Input 3:
 
+Sample Input 3:
 7
 9
 2
 Sample Output 3:
-
 Недосып
 '''
