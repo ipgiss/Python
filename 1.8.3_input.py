@@ -14,7 +14,10 @@ print(wt)
 print(min)
 
 
-'''480
+'''
+Sample Input 1:
+
+480
 1
 2
 Sample Output 1:
@@ -22,7 +25,6 @@ Sample Output 1:
 9
 2
 Sample Input 2:
-Sample Input 1:
 
 475
 1
@@ -30,4 +32,6 @@ Sample Input 1:
 Sample Output 2:
 
 9
-50'''
+50
+
+'''
