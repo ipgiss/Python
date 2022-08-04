@@ -3,12 +3,13 @@
 первого введенного нуля выводит сумму полученных на вход чисел'''
 
 # put your python code here
-c = int (input())
-s = 0
-while c != 0:
-    s = s + c
-    c = int (input())
-print (s)
+S = 0
+a = int(input())
+S += a
+while a != 0:
+    a = int(input())
+    S += a
+print(S)
 
 '''
 Sample Input 1:
